@@ -25,4 +25,4 @@
 对于许多观众来说，在线观看是最便捷的方式，但也有一些人更喜欢下载影片，以便在没有网络的情况下观看。很多平台提供免费下载选项，用户只需选择高清下载链接，即可将影片保存至本地，随时观看。对于不同的观影需求，平台也会提供各种分辨率的下载文件，以确保用户能够获得最佳体验。  
 
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/gmz20250711/rbriben14 )</span>
